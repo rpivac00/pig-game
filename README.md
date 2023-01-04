@@ -1,6 +1,8 @@
 # pig-game
 Pig game is web-dice game designed for 2 players.
+
 Game is made from the Javascript course The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann.
+
 Added Choose Name functionality.
 
 ## Rules and gameplay
@@ -14,4 +16,4 @@ Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the pl
 
 Game is over when one of the players gets 100 points
 
-Added choose name functionality
+
